@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+.btndel:hover{
+    background-color: black;
+    color: white;
+}
+td, th{
+    line-height: 50px;
+}
+input{
+    width: 50% !important;
+    margin-bottom: 10px;
+}
+.pp{
+    margin-top: 20px;
+}
+p{
+    margin-bottom: 0;
+}
+.container{
+    background: linear-gradient(to right, orange, red);
+    padding: 10px;
+}
